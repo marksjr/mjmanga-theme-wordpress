@@ -23,6 +23,8 @@ Ajax Search Lite (Optional) https://br.wordpress.org/plugins/ajax-search-lite/ -
 
 How to use theme
 
+video How to use theme and install plugin https://youtu.be/MctJkQ6fLeg
+
 In settings > Reading you modify the number of chapters on the home page.
 
 After posting the manga, when you are going to post chapters always remember to select the manga category in the chapter post.
