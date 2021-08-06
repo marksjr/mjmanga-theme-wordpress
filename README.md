@@ -1,5 +1,5 @@
 # mjmanga-theme-wordpress
-MJ Manga Theme Wordpress 1.0
+MJ Manga Theme Wordpress version 1.0
 
 Paypal donation: mjoncontato@gmail.com
 
