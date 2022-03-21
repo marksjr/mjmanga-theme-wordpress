@@ -1,0 +1,25 @@
+body{
+	color: white;
+	background-color: black;
+
+}
+a {
+	text-decoration:none;
+	cursor:pointer; 
+}
+div.espaco {
+    padding-top: 2cm;
+}
+
+.attachment-post-thumbnail{
+	width: 165px;
+	height: 225px;
+
+}
+div.read-manga{
+	text-align: center;
+	
+}
+.collapse{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
